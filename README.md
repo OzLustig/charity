@@ -1,6 +1,6 @@
 # # Charity app
 
-![alt text](https://i.imgur.com/ZF6R3TQ.png)
+![alt text](https://i.imgur.com/7vNtEud.jpg)
 
 Charity web application, built using (Node.JS, Express.JS) + (Angular8, Bulma, Font Awesome, Bootstrap)
 ## Getting Started
